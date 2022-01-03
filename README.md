@@ -3,7 +3,7 @@ To run this project, please follow this flow:
 Step1: install an application called UiPath under Windows System, the Uipath website is www.uipath.com. Please install a community edition. Please use Uipath Studio edition.
 
 Step2: Download my project files using the Github link: https://github.com/lovezcyzmd/monashcontest, unzip the depedance.zip. Make the directory arange like this:
-
+       https://github.com/lovezcyzmd/monashcontest/blob/main/pic/diretory.png
        
 Step3: Change the config file(config.xlsx) in the project folder. There is two option to set. 
 
@@ -14,5 +14,7 @@ Step3: Change the config file(config.xlsx) in the project folder. There is two o
  
  After change these option, put the config.xlsx under folder "C:\Users\"
  
-step4:
+step4:Open my project files using UiPath. To do this, just use Uipath “open” menu to open the file project.json in my project folder.
+
+Step5: Execute run. Then the project will execute the whole flow and work out the final result.
 
