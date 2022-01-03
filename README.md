@@ -1,4 +1,9 @@
 # monashcontest
+
+Prerequirement:
+OS :Windows 10 or above
+Browser: Chrome
+
 To run this project, please follow this flow:
 Step1: install an application called UiPath under Windows System, the Uipath website is www.uipath.com. Please install a community edition. Please use Uipath Studio edition.
 
@@ -16,5 +21,7 @@ Step3: Change the config file(config.xlsx) in the project folder. There is two o
  
 step4:Open my project files using UiPath. To do this, just use Uipath “open” menu to open the file project.json in my project folder.
 
-Step5: Execute run. Then the project will execute the whole flow and work out the final result.
+step5: Install uipath chrome extension. Please refer to https://docs.uipath.com/studio/docs/extension-for-chrome
+
+Step6: Execute run. Then the project will execute the whole flow and work out the final result.
 
