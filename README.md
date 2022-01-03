@@ -13,12 +13,13 @@ Step2: Download my project files using the Github link: https://github.com/lovez
        
 Step3: Change the config file(config.xlsx) in the project folder. There is two option to set. 
 
- 1、working path. The project will download related files in this path and put the result.xlsx file to this path. You need to ensure the working path exists in your computer.
+      1、working path. The project will download related files in this path and put the result.xlsx file to this path. You need to ensure the working path exists in your  
+      computer.
  
- 2、working mode. If you put this to 0, the project will run one test mode, else it will be on normal mode. In test mode, the project will only run at a small sample. The small
- sample file is in my project folder called data_test.xlsx
+      2、working mode. If you put this to 0, the project will run one test mode, else it will be on normal mode. In test mode, the project will only run at a small sample. The
+      small sample file is in my project folder called data_test.xlsx
  
- After change these option, put the config.xlsx under folder "C:\Users\"
+      After change these option, put the config.xlsx under folder "C:\Users\"
  
 step4:Open my project files using UiPath. To do this, just use Uipath “open” menu to open the file project.json in my project folder.
 
